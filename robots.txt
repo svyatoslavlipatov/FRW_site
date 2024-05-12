@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /404_error.html
+
+User-agent: yandex
+Disallow: /404_error.html
+
+User-agent: googlebot
+Disallow: /404_error.html
+
+Sitemap: http://cu71598.tw1.ru/sitemap.xml
